@@ -1,0 +1,15 @@
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\bin\Debug\FirstAppWPF.exe.config
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\bin\Debug\FirstAppWPF.exe
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\bin\Debug\FirstAppWPF.pdb
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.csprojAssemblyReference.cache
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\App.g.cs
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF_MarkupCompile.cache
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF_MarkupCompile.lref
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\MainWindow.baml
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.g.resources
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.Properties.Resources.resources
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.csproj.GenerateResource.cache
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.exe
+C:\Users\Danylo Lyga\Documents\Project WPF\FirstAppWPF\FirstAppWPF\obj\Debug\FirstAppWPF.pdb
